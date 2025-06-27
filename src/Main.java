@@ -21,14 +21,14 @@ public class Main {
         System.out.println(" ");
         System.out.println("Task2");
         float f2 = 27.12f;
-        long d2 = 987_678_965_549L;
+        long l2 = 987_678_965_549L;                                               // привел в соответствие
         float f3 = 2.786f;
         short s2 = 569;
         short s3 = -159;
         short s4 = 27897;
         byte b2 = 67;
         System.out.println("Значение переменной f2 c типом float равно: " + f2);
-        System.out.println("Значение переменной d2 c типом double равно: " + d2);
+        System.out.println("Значение переменной l2 c типом long равно: " + l2);    // привел в соответствие
         System.out.println("Значение переменной f3 c типом float равно: " + f3);
         System.out.println("Значение переменной s2 c типом short равно: " + s2);
         System.out.println("Значение переменной s3 c типом short равно: " + s3);
